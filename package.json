@@ -34,6 +34,7 @@
   "devDependencies": {
     "@types/defer-promise": "^1.0.0",
     "@types/jest": "^26.0.14",
+    "coveralls": "^3.1.0",
     "defer-promise": "^2.0.1",
     "jest": "^26.5.0",
     "prettier": "^2.1.2",
