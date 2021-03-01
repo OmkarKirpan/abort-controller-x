@@ -1,4 +1,4 @@
-# Abort Controller Extras [![npm version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
+# Abort Controller Extras [![npm version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![coverage][coverage-status]][coverage-url]
 
 Abortable async function helpers.
 
@@ -439,3 +439,13 @@ somethingAbortable(signal).catch(catchAbortError);
 ```
 
 Without `catchAbortError`, aborting would result in unhandled promise rejection.
+
+[npm-image]: https://badge.fury.io/js/%40omkarkirpan%2Fabort-controller-x.svg
+[npm-url]: https://badge.fury.io/js/%40omkarkirpan%2Fabort-controller-x
+[travis-image]:
+  https://travis-ci.com/OmkarKirpan/abort-controller-x.svg?branch=main
+[travis-url]: https://travis-ci.com/OmkarKirpan/abort-controller-x
+[coverage-status]:
+  https://coveralls.io/repos/github/OmkarKirpan/abort-controller-x/badge.svg?branch=main
+[coverage-url]:
+  https://coveralls.io/github/OmkarKirpan/abort-controller-x?branch=main
