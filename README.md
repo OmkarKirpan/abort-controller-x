@@ -34,7 +34,7 @@ Abortable async function helpers.
 ## Installation
 
 ```
-yarn add abort-controller-x
+yarn add @omkarkirpan/abort-controller-x
 ```
 
 ## Abort Controller
