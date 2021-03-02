@@ -28,7 +28,8 @@
     "cancellable",
     "abort-controller",
     "async",
-    "coroutine"
+    "coroutine",
+    "omkarkirpan"
   ],
   "author": "Omkar Kirpan",
   "license": "MIT",
